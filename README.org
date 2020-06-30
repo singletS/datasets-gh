@@ -1,5 +1,6 @@
-# datasets-gh
+* datasets-gh
 Datasets for use with curriculum materials.
 
- CO2_irspectra:  CO IR absorption spectra at several resolutions
+** CO2_irspectra
+  CO IR absorption spectra at several resolutions.
 
