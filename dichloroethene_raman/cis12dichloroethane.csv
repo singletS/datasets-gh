@@ -1,3 +1,38 @@
+##### Extended Information
+# [Comments]
+# Sample name,cis-1,2dicholoethene
+#
+# [Detailed Information]
+# Creation date,11/10/2014 4:51 PM
+# Data array type,Linear data array
+# Horizontal axis,Raman Shift [cm-1]
+# Vertical axis,Int.
+# Start,36.491 cm-1
+# End,1803.29 cm-1
+# Data interval,0.2 cm-1
+# Data points,8835    
+# [Measurement Information]
+# Model Name,NRS-3100
+# Exposure,20.00 sec
+# Accumulation,2
+# Center wavenumber,998.29 cm-1
+# Binning Upper,23
+# Binning Lower,53
+# Valid Channel,1 - 1024
+# Laser wavelength,784.68 nm
+# Monochromator,Single
+# Grating,600 l/mm
+# Slit,0.1 x 6 mm
+# Resolution,6.68 cm-1
+# Objective lens,UMPLFL 5 x
+# BS/DM,DM 785nm
+# 1/2 plate,Not fitted
+# Analyser,Not fitted
+# Laser power,151.4 mW
+# Attenuator,OD0.6
+# CCD temperature,-57.0 C
+# Shift,-0.90 cm-1
+#
 # TITLE,cis-1,2dicholoethene
 # DATA TYPE,RAMAN SPECTRUM
 # ORIGIN,JASCO
@@ -8852,48 +8887,4 @@
 1802.8911,5976.78
 1803.0911,5984.66
 1803.2910,5992.55
-
-##### Extended Information
-[Comments]
-Sample name,cis-1,2dicholoethene
-Comment,
-User
-Division
-Company,Coe College
-
-[Detailed Information]
-Creation date,11/10/2014 4:51 PM
-
-Data array type,Linear data array
-Horizontal axis,Raman Shift [cm-1]
-Vertical axis,Int.
-Start,36.491 cm-1
-End,1803.29 cm-1
-Data interval,0.2 cm-1
-Data points,8835    
-
-[Measurement Information]
-Model Name,NRS-3100
-Serial Number,A000761032
-
-Exposure,20.00 sec
-Accumulation,2
-Center wavenumber,998.29 cm-1
-Binning Upper,23
-Binning Lower,53
-Valid Channel,1 - 1024
-
-Laser wavelength,784.68 nm
-Monochromator,Single
-Grating,600 l/mm
-Slit,0.1 x 6 mm
-Resolution,6.68 cm-1
-Objective lens,UMPLFL 5 x
-BS/DM,DM 785nm
-1/2 plate,Not fitted
-Analyser,Not fitted
-Laser power,151.4 mW
-Attenuator,OD0.6
-CCD temperature,-57.0 C
-Shift,-0.90 cm-1
 
