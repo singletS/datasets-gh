@@ -2,7 +2,7 @@ Raman spectra of cis- and trans-1,2-dichloroethene. Neat liquid, through glass v
 
 Experiment settings
 
-<pre>
+#+begin_example
 ##### Extended Information
 [Comments]
 Sample name,cis-1,2dicholoethene
@@ -56,4 +56,5 @@ NPOINTS,    8835
 FIRSTY,  2375.50000
 MAXY, 62956.00781
 MINY,  2328.82300
-</pre>
+
+#+end_example
