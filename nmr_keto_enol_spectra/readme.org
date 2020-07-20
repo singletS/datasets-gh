@@ -1,3 +1,1 @@
-NMR spectra recorded at POGIL-PCL workshop hosted at Cornell College, October 2019.
-
-Bruker Avance 400 NMR spectrometer
+NMR spectra of 2,4-pentanedione in various solvents (acetone, C6D6, C6D12, CD3CN, CDCl3, DMSO-d6) and in DMF at several temperatures using Bruker Avance 400 NMR spectrometer. Spectra are in PDF format with labeled peaks. Recorded during POGIL-PCL workshop hosted at Cornell College, October 2019.
