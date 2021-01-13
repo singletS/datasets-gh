@@ -1,5 +1,5 @@
 * datasets-gh
 Datasets for use with curriculum materials.
 
-| CO_irspectra         | CO IR absorption spectra at several resolutions    |
-| dichloroethene_raman | Raman spectra of cis- and trans-1,2-dichloroethene |
+| CO_irspectra            | CO IR absorption spectra at several resolutions           |
+| dichloroethene_raman-IR | IR and raman spectra of cis- and trans-1,2-dichloroethene |
