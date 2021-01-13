@@ -12,7 +12,7 @@ trans-dichlorethene-IR.csv from 156-60-5-IR.jdx Ethylene, 1,2-dichloro-, (E)/tra
 
 
 * Raman spectra
-Raman spectra of cis- and trans-1,2-dichloroethene. Neat liquid, through glass vial with JASCO NRS3100 confocal Raman spectrometer.  S Singleton, Coe College. 
+Raman spectra of cis- and trans-1,2-dichloroethene. Neat liquid, through glass vial with JASCO NRS3100 confocal Raman spectrometer, Coe College. 
 
 #+begin_example
 ##### Extended Information
