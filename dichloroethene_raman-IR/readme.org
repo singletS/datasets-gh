@@ -5,11 +5,11 @@ OWNER=NIST Standard Reference Data Program
 Collection (C) 2018 copyright by the U.S. Secretary of Commerce
 on behalf of the United States of America. All rights reserved.
 
-156-59-2-IR.jdx Ethylene, 1,2-dichloro-,(Z)/cis- https://webbook.nist.gov/cgi/cbook.cgi?ID=C156592&Type=IR-SPEC&Index=1
-cis-dichloroethene-IR.csv
+cis-dichloroethene-IR.csv from 156-59-2-IR.jdx Ethylene, 1,2-dichloro-,(Z)/cis- https://webbook.nist.gov/cgi/cbook.cgi?ID=C156592&Type=IR-SPEC&Index=1
 
-156-60-5-IR.jdx Ethylene, 1,2-dichloro-, (E)/trans- https://webbook.nist.gov/cgi/inchi?ID=C156605&Type=IR-SPEC&Index=0
-trans-dichlorethene-IR.csv
+
+trans-dichlorethene-IR.csv from 156-60-5-IR.jdx Ethylene, 1,2-dichloro-, (E)/trans- https://webbook.nist.gov/cgi/inchi?ID=C156605&Type=IR-SPEC&Index=0
+
 
 * Raman spectra
 Raman spectra of cis- and trans-1,2-dichloroethene. Neat liquid, through glass vial with JASCO NRS3100 confocal Raman spectrometer.  S Singleton, Coe College. 
