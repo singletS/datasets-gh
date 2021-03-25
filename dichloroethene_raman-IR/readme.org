@@ -1,5 +1,10 @@
 * IR spectra
-NIST Webbook JCAMP files converted to CSV
+
+1,2-dichloroethene IR Spectra-PNW.xlsx data from M. Pelter, PNW
+
+Nicolet spectrometer, neat liquid.
+
+** NIST Webbook JCAMP files converted to CSV
 
 OWNER=NIST Standard Reference Data Program
 Collection (C) 2018 copyright by the U.S. Secretary of Commerce
