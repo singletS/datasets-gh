@@ -3,3 +3,5 @@ Datasets for use with curriculum materials.
 
 | CO_irspectra            | CO IR absorption spectra at several resolutions           |
 | dichloroethene_raman-IR | IR and raman spectra of cis- and trans-1,2-dichloroethene |
+| NMR_keto_enol_spectra | NMR spectra of 2,4-pentanedione in various solvents |
+
