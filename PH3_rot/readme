@@ -1,0 +1,5 @@
+Source: https://scipython.com/chem/book/rotational-spectroscopy/rotational-spectroscopy-of-co-and-ph3/
+
+PH3-spec.txt: The low-pressure, high resolution spectrum of phosphine PH3 in the region 0-200 cm-1.
+
+PH3-lines.txt: List of PH3 rotational lines in this region.
